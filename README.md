@@ -41,3 +41,7 @@ Financial Analysis
 Data Visualization
 
 Dashboard Design
+
+
+<img width="1126" height="629" alt="Screenshot 2026-03-31 at 7 00 30 PM" src="https://github.com/user-attachments/assets/39266a37-4e5b-4a4f-9f93-cea4cd6eeae6" />
+
